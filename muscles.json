@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Chest"
+    },
+    {
+        "name": "Back"
+    },
+    {
+        "name": "Biceps"
+    },
+    {
+        "name": "Triceps"
+    },
+    {
+        "name": "Forearm Flexors"
+    },
+    {
+        "name": "Core"
+    },
+    {
+        "name": "Abs"
+    },
+    {
+        "name": "Obliques"
+    },
+    {
+        "name": "Lats"
+    },
+    {
+        "name": "Trapezius"
+    },
+    {
+        "name": "Front Delts"
+    },
+    {
+        "name": "Lateral Delts"
+    },
+    {
+        "name": "Rear Delts"
+    },
+    {
+        "name": "Rotator Cuff"
+    },
+    {
+        "name": "Lower Back"
+    },
+    {
+        "name": "Legs"
+    },
+    {
+        "name": "Quads"
+    },
+    {
+        "name": "Glutes"
+    },
+    {
+        "name": "Hamstrings"
+    },
+    {
+        "name": "Calves"
+    },
+    {
+        "name": "Adductors"
+    },
+    {
+        "name": "Abductors"
+    }
+]

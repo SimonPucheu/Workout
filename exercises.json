@@ -1,0 +1,141 @@
+[
+    {
+        "name": "Rest",
+        "muscles": {
+            "primary": [],
+            "secondary": [],
+            "image": ""
+        },
+        "prep_time": 0
+    },
+    {
+        "name": "Bench Press",
+        "muscles": {
+            "primary": [
+                0,
+                3
+            ],
+            "secondary": [
+                10
+            ]
+        },
+        "prep_time": 15
+    },
+    {
+        "name": "Push-Ups",
+        "muscles": {
+            "primary": [
+                0,
+                10
+            ],
+            "secondary": [
+                3,
+                6
+            ]
+        }
+    },
+    {
+        "name": "Close-Grip Push-Up",
+        "muscles": {
+            "primary": [
+                3
+            ],
+            "secondary": [
+                6,
+                0,
+                10
+            ]
+        }
+    },
+    {
+        "name": "Diamond Push-Ups",
+        "muscles": {
+            "primary": [
+                3
+            ],
+            "secondary": [
+                6,
+                0,
+                10
+            ]
+        }
+    },
+    {
+        "name": "Dumbbell Bench Press",
+        "muscles": {
+            "primary": [
+                0,
+                10
+            ],
+            "secondary": [
+                3
+            ]
+        }
+    },
+    {
+        "name": "Sit-Ups",
+        "muscles": {
+            "primary": [
+                6
+            ],
+            "secondary": [
+                7
+            ]
+        }
+    },
+    {
+        "name": "Plank",
+        "muscles": {
+            "primary": [
+                6
+            ],
+            "secondary": [
+                7
+            ]
+        }
+    },
+    {
+        "name": "Side Plank",
+        "muscles": {
+            "primary": [
+                7
+            ],
+            "secondary": [
+                6
+            ]
+        }
+    },
+    {
+        "name": "Dumbbell Pullover",
+        "muscles": {
+            "primary": [
+                0
+            ],
+            "secondary": [
+                8
+            ]
+        }
+    },
+    {
+        "name": "Dead Bug",
+        "muscles": {
+            "primary": [
+                6
+            ],
+            "secondary": [
+                7
+            ]
+        }
+    },
+    {
+        "name": "Dumbbell Curl",
+        "muscles": {
+            "primary": [
+                2
+            ],
+            "secondary": [
+                4
+            ]
+        }
+    }
+]

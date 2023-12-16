@@ -1,0 +1,7 @@
+RewriteEngine On
+RewriteBase /Workout/
+RewriteRule ^exercises/(.*)$ exercise.php?path=$1 [L,QSA]
+RewriteRule ^exercises exercises.php [L,QSA]
+
+RewriteRule ^programs/(.*)$ program.php?path=$1 [L,QSA]
+RewriteRule ^programs programs.php [L,QSA]
